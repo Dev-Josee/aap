@@ -16,7 +16,13 @@ Interface responsiva para uso em desktop
 
 
 Categorias de parametrização
-CategoriaDescrição✅ PodeO que é aceito sem ressalvas❌ Não podeO que deve ser recusado⚠️ AtençãoPontos que exigem cuidado na análise🔍 Depende de análiseSituações que exigem julgamento do analista↗ EncaminhamentoPara onde o caso deve ser direcionado📋 ObservaçõesNotas e informações adicionais da empresa
+CategoriaDescrição:
+✅ PodeO que é aceito sem ressalvas
+❌ Não podeO que deve ser recusado
+⚠️ AtençãoPontos que exigem cuidado na análise
+🔍 Depende de análiseSituações que exigem julgamento do analista
+↗ EncaminhamentoPara onde o caso deve ser direcionado
+📋 ObservaçõesNotas e informações adicionais da empresa
 
 Empresas configuradas
 
